@@ -1,136 +1,82 @@
+
 > [!infobox] 
-> # {{title}} 
+> #`=this.file.name`
+> **Pronounced:** `=this.Pronounced`
 > ###### Symbol
-> ![[Image.png|cover hsmall]] 
+> ![[flag.png|cover hsmall]] 
 > ###### Stats 
 > | | |
 > | ---- | ---- |
- > | Government Type | Testing |
-> | Ruler(s) | Testing |
-> | Defenses | Testing |
-> | Trade Goods & Resources |  |
-> | Climate |  |
-> |  |  |
 > ##### Government Type
-> Placeholder
+> `=this.Goverment`
 > ##### Ruler(s)
-> Placeholder
+> `=this.Rules`
 > ##### Defenses
-> Placeholder
+> `=this.Defenses`
 > ##### Trade Goods & Resources
-> Placeholder
+> `=this.TradeGoods`
 > ##### Climate
-> Placeholder
+> `=this.Climate`
 > ##### Current Disaster(s)
-> Placeholder
+> `=this.Disasters`
+
+## Details
+General description of the city.
+
+##### Nearby Settlements
+Placeholder
+##### Laws & Punishment
+Placeholder
+##### Deities & Temples
+Placeholder
+##### Major Guilds & Organizations
+Placeholder
 
 
+## Economy
+Max GP of goods & vendors: 
+Taxes: 
+Cost to enter city: 
+Cost of living: 
+Crime: 
+Imports: 
+Exports: 
 
 
+## Populace
+Population: 
+Mood (Current Affairs): 
+Mood (Outsiders): 
+Mood (Government): 
+Festivals & Celebrations: 
+Notable NPCS: 
 
 
+## Districts
 
-
-Government Type
-Ruler(s)
-Defenses
-Trade Goods & Resources
-Climate
-Current Disaster(s)
-
-Map
-
-
-
-Details
-Nearby Settlements
-Laws & Punishment
-Deities & Temples
-Major Guilds & Organizations
-
-
-
-District
-Name
+### NAME District
 Notable Building(s)
 Major Landmark(s)
 Lodging
 Story Hooks & Notes
 
-Adventuring Notes
+### NAME District
+Notable Building(s)
+Major Landmark(s)
+Lodging
+Story Hooks & Notes
 
 
-Economy
-Max GP of goods & vendors
-Taxes
-Cost to enter city
-Cost of living
-Crime
-Imports
-Exports
-
-Populace
-Population
-Mood (Current Affairs)
-Mood (Outsiders)
-Mood (Government)
-Festivals & Celebrations
-Notable NPCS
+## Adventuring Notes
++ 
 
 
-> [!column] Districts
->> [!info] Column 1
->> Test 1
->
->> [!note] Column 2
->> Test 2
->
->> [!note] Column 2
->> Test 2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
---- start-multi-column: Districts_1
-```column-settings  
-number of columns: 3 
+## Map
+```leaflet
+id: ExampleMap
+image: [[map.png]]
+defaultZoom: 7
+unit: feet
+height: 400px
+width: 400px
 ```
-
-> [!info|color-blue] Notable Building(s)
-
-Placeholder
-
-> [!info|color-blue] Major Landmark(s)
-
-Placeholder
-
-> [!info|color-blue] Lodging
-
-Placeholder
-
-> [!info|color-blue] Story Hooks & Notes
-
-Placeholder
-
---- end-column ---
-
---- end-column ---
-
-Text displayed in column 3.
-
---- end-multi-column
-
-
-

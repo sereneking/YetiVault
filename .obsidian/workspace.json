@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "0615f3e43baa73f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fe57fdc5e08ef54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd79c49febb6be19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "City Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8e69578648de6e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b74943a05cc6092",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63b44d91eba2f08f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a46dff7bff3dd1e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "668661017aa399a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bf2ca7998e636a07",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3c84ec15003417f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5b89e8016cb563f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "City Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c057dbfa3f9ba387",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "City Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42ddb53261a70f1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "49ea5d0c260d43d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "City Template.md"
+              }
+            }
+          },
+          {
+            "id": "779d9e4db7f0f983",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "83433ef959aea797",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "dd79c49febb6be19",
+  "lastOpenFiles": [
+    "99 - Templates/Setup/S - Encoded Fonts.css",
+    "99 - Templates/Setup/S - Encoded Icons.css",
+    "City Template.md",
+    "Systems/5e/bestiary/aberration/aberrant-spirit-4th-level-spell-tce.md",
+    "Untitled 1.md",
+    "Systems/5e/backgrounds/urchin.md",
+    "Systems/5e/backgrounds/urban-bounty-hunter-scag.md",
+    "Systems/5e/backgrounds/treasure-seeker-soldier-of-fortune-variant-dodk.md",
+    "Systems/5e/backgrounds/treasure-seeker-dodk.md",
+    "Systems/5e/backgrounds/survivor-veteran-of-the-civil-war-variant-dodk.md",
+    "Systems/5e/backgrounds/survivor-dodk.md",
+    "Systems/5e/backgrounds/soldier.md",
+    "Systems/5e/backgrounds/smuggler-gos.md",
+    "Systems/5e/backgrounds/simic-scientist-ggr.md",
+    "Systems/5e/backgrounds/silverquill-student-scc.md",
+    "Systems/5e/backgrounds/shipwright-gos.md",
+    "Systems/5e/backgrounds/selesnya-initiate-ggr.md",
+    "Systems/5e/backgrounds/sailor.md",
+    "Systems/5e/backgrounds/sailor-pirate-variant.md",
+    "Systems/5e/backgrounds/sage.md",
+    "Systems/5e/backgrounds/rune-carver-ua2022wondersofthemultiverse.md",
+    "Systems/5e/backgrounds/rune-carver-bgg.md",
+    "Systems/5e/backgrounds/ruined-bmt.md",
+    "Systems/5e/backgrounds/rival-intern-ai.md",
+    "Systems/5e/backgrounds/rewarded-bmt.md",
+    "Systems/5e/backgrounds/revelry-pirate-sailor-egw.md",
+    "Systems/5e/backgrounds/reformed-cultist-tdcsr.md",
+    "Systems/5e/backgrounds",
+    "Systems/5e",
+    "Systems",
+    "99 - Templates/Setup/DataviewQueries.txt",
+    "99 - Templates/Setup/admonitions-5e.json",
+    "99 - Templates/Setup/other-admonitions.json",
+    "99 - Templates/Setup",
+    "99 - Templates/New folder",
+    "99 - Templates"
+  ]
+}

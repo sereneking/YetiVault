@@ -1,0 +1,4 @@
+~~~dataview
+TABLE without ID link(file.name, aliases) from "compendium/classes"
+FLATTEN aliases
+~~~

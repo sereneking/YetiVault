@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "012c8fc8c412a7f6",
+        "id": "35dacf4a91072d62",
         "type": "tabs",
         "children": [
           {
-            "id": "1a0b391f28cc184f",
+            "id": "eb149d0cfe35e044",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#deity/exandria",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,16 +160,26 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1a0b391f28cc184f",
+  "active": "eb149d0cfe35e044",
   "lastOpenFiles": [
-    "City Template.md",
+    "99 - Templates/Magic Item Template.md",
+    "99 - Templates/City Template.md",
+    "NPC Template.md",
+    "99 - Templates/Placeholders/magic_item.png",
+    "README.md",
+    "99 - Templates/XX - Campaign/Session Notes",
+    "99 - Templates/XX - Campaign/Player Characters",
+    "99 - Templates/XX - Campaign",
+    "99 - Templates/XX - Gazetteer",
+    "99 - Templates/XX - Gazetteer/Plane (Universe Region)/World (World Region)/Nation (Major Region)/City (Minor Region)",
+    "99 - Templates/XX - Gazetteer/Plane (Universe Region)/World (World Region)/Nation (Major Region)",
+    "99 - Templates/XX - Gazetteer/Plane (Universe Region)/World (World Region)",
+    "99 - Templates/XX - Gazetteer/Plane (Universe Region)",
+    "50 - Locations",
+    "40 - Beastiary",
     "99 - Templates/Placeholders/flag.png",
-    "99 - Templates/Setup/MCL Multi Column.css",
     "99 - Templates/Placeholders/map.png",
-    "99 - Templates/Placeholders",
     "Systems/5e/bestiary/aberration/aberrant-spirit-4th-level-spell-ua2020spellsandmagictattoos.md",
-    "99 - Templates/Setup/S - Encoded Fonts.css",
-    "99 - Templates/Setup/S - Encoded Icons.css",
     "Systems/5e/bestiary/aberration/aberrant-spirit-4th-level-spell-tce.md",
     "Untitled 1.md",
     "Systems/5e/backgrounds/urchin.md",
@@ -191,14 +200,6 @@
     "Systems/5e/backgrounds/rune-carver-ua2022wondersofthemultiverse.md",
     "Systems/5e/backgrounds/rune-carver-bgg.md",
     "Systems/5e/backgrounds/ruined-bmt.md",
-    "Systems/5e/backgrounds/rival-intern-ai.md",
-    "Systems/5e/backgrounds/rewarded-bmt.md",
-    "Systems/5e/backgrounds/revelry-pirate-sailor-egw.md",
-    "Systems/5e/backgrounds",
-    "Systems/5e",
-    "Systems",
-    "99 - Templates/Setup/DataviewQueries.txt",
-    "99 - Templates/Setup/admonitions-5e.json",
-    "99 - Templates/Setup/other-admonitions.json"
+    "Systems/5e/backgrounds/rival-intern-ai.md"
   ]
 }

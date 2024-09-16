@@ -11,6 +11,8 @@
 > `=this.Value`
 > ##### Location
 > `=this.Location`
+> ##### Tags
+> #wip #magicitem
 
 ## Art
 ![[magic_item.png]]

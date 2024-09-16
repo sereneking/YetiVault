@@ -19,6 +19,8 @@
 > `=this.Climate`
 > ##### Current Disaster(s)
 > `=this.Disasters`
+> ##### Tags
+> #wip #city
 
 ## Details
 General description of the city.

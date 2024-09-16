@@ -11,8 +11,10 @@
             "id": "eb149d0cfe35e044",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "database-plugin",
+              "state": {
+                "file": "30 - People/00 - NPCS.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "30 - People/00 - NPCS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "30 - People/00 - NPCS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "30 - People/00 - NPCS.md"
+              }
             }
           },
           {
@@ -141,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,12 +163,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "eb149d0cfe35e044",
   "lastOpenFiles": [
     "99 - Templates/Magic Item Template.md",
+    "30 - People/00 - NPCS.md",
     "99 - Templates/City Template.md",
     "NPC Template.md",
     "99 - Templates/Placeholders/magic_item.png",
@@ -198,7 +207,6 @@
     "Systems/5e/backgrounds/sage.md",
     "Systems/5e/backgrounds/rune-carver-ua2022wondersofthemultiverse.md",
     "Systems/5e/backgrounds/rune-carver-bgg.md",
-    "Systems/5e/backgrounds/ruined-bmt.md",
-    "Systems/5e/backgrounds/rival-intern-ai.md"
+    "Systems/5e/backgrounds/ruined-bmt.md"
   ]
 }

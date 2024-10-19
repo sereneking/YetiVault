@@ -14,7 +14,9 @@
               "type": "database-plugin",
               "state": {
                 "file": "30 - People/00 - NPCS.md"
-              }
+              },
+              "icon": "database-folder-icon",
+              "title": "00 - NPCS"
             }
           }
         ]
@@ -37,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,7 +66,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -91,7 +99,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 00 - NPCS"
             }
           },
           {
@@ -103,7 +113,9 @@
                 "file": "30 - People/00 - NPCS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 00 - NPCS"
             }
           },
           {
@@ -114,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,7 +138,9 @@
               "type": "outline",
               "state": {
                 "file": "30 - People/00 - NPCS.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 00 - NPCS"
             }
           },
           {
@@ -132,14 +148,18 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
             "id": "83433ef959aea797",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM"
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
         ],
